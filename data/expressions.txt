@@ -1,0 +1,35 @@
+EXPRESSIONS DU GUIDE 8 : copiez-les depuis ce fichier, un bloc entier à la fois.
+Un PDF coupe les lignes longues et ajoute des espaces au copier-coller ; ce fichier n'en ajoute aucun.
+
+=== PL_Lisboa_Express ===
+
+[Load CSV / Load JSON / Load Parquet] Copy data, motifs de nom de fichier (chemin générique, dossier drop)
+*.csv
+*.json
+*.parquet
+
+[Load CSV / Load JSON / Load Parquet] tables de destination, action Remplacer
+trips_csv
+trips_json
+trips_parquet
+
+[Unknown files] Filter, éléments
+@activity('List drop').output.childItems
+
+[Unknown files] Filter, condition
+@not(or(or(endswith(toLower(item().name), '.csv'), endswith(toLower(item().name), '.json')), endswith(toLower(item().name), '.parquet')))
+
+[Read summary] Lookup, table
+run_summary
+
+[Post summary] Teams, titre
+Vélos de Lisbonne
+
+[Post summary] Teams, message
+Lisbonne, vélos du @{activity('Read summary').output.firstRow.run_date} : @{activity('Read summary').output.firstRow.trips} trajets fusionnés depuis @{activity('Read summary').output.firstRow.formats} formats, @{activity('Read summary').output.firstRow.duplicates} doublons écartés. En tête : @{activity('Read summary').output.firstRow.top_district}. @{activity('Read summary').output.firstRow.km_total} km parcourus, dont @{activity('Read summary').output.firstRow.electric_pct} % en vélo électrique. Fichiers ignorés : @{activity('Unknown files').output.FilteredItemsCount}.
+
+=== LH_Lisboa : point de terminaison SQL ===
+
+SELECT district, trips, avg_duration_min, km_total, electric_pct FROM district_stats ORDER BY trips DESC;
+
+SELECT * FROM run_summary;
