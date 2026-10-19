@@ -1,0 +1,596 @@
+[
+ {
+  "trip_id": "LX-20061",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:02:00",
+  "duration_s": 1560,
+  "distance_m": 3500,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20041",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:03:00",
+  "duration_s": 1140,
+  "distance_m": 400,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20001",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:16:00",
+  "duration_s": 1080,
+  "distance_m": 1700,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20016",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:18:00",
+  "duration_s": 660,
+  "distance_m": 1200,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20010",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:20:00",
+  "duration_s": 1440,
+  "distance_m": 500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20011",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:27:00",
+  "duration_s": 1140,
+  "distance_m": 1700,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20048",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:29:00",
+  "duration_s": 240,
+  "distance_m": 4000,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20004",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:30:00",
+  "duration_s": 1200,
+  "distance_m": 1300,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20014",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 08:31:00",
+  "duration_s": 1080,
+  "distance_m": 3400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20032",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:05:00",
+  "duration_s": 1320,
+  "distance_m": 2200,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20024",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:09:00",
+  "duration_s": 840,
+  "distance_m": 1700,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20031",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:32:00",
+  "duration_s": 780,
+  "distance_m": 2100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20023",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:39:00",
+  "duration_s": 480,
+  "distance_m": 3600,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20006",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:40:00",
+  "duration_s": 1200,
+  "distance_m": 2500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20013",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 09:57:00",
+  "duration_s": 420,
+  "distance_m": 1800,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20058",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 10:03:00",
+  "duration_s": 720,
+  "distance_m": 3100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20007",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 10:11:00",
+  "duration_s": 1140,
+  "distance_m": 1000,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-10002",
+  "station": "Torre de Belém",
+  "district": "Belém",
+  "start_time": "2026-10-19 10:34:00",
+  "duration_s": 1260,
+  "distance_m": 3200,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20040",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 10:43:00",
+  "duration_s": 1260,
+  "distance_m": 2100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20056",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:03:00",
+  "duration_s": 1080,
+  "distance_m": 500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20027",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:15:00",
+  "duration_s": 1020,
+  "distance_m": 1900,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20035",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:34:00",
+  "duration_s": 1500,
+  "distance_m": 2700,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20052",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:36:00",
+  "duration_s": 480,
+  "distance_m": 3900,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20003",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:40:00",
+  "duration_s": 1500,
+  "distance_m": 2100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20044",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:42:00",
+  "duration_s": 300,
+  "distance_m": 3100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20037",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 11:44:00",
+  "duration_s": 600,
+  "distance_m": 2400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20019",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 12:00:00",
+  "duration_s": 900,
+  "distance_m": 2700,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20008",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 12:04:00",
+  "duration_s": 780,
+  "distance_m": 2600,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20051",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 12:06:00",
+  "duration_s": 360,
+  "distance_m": 1300,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20055",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 12:12:00",
+  "duration_s": 960,
+  "distance_m": 3500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20053",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 12:13:00",
+  "duration_s": 540,
+  "distance_m": 3300,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20029",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 13:38:00",
+  "duration_s": 420,
+  "distance_m": 900,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20017",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 13:42:00",
+  "duration_s": 900,
+  "distance_m": 2000,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20020",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 13:44:00",
+  "duration_s": 240,
+  "distance_m": 2100,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20057",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 13:48:00",
+  "duration_s": 1020,
+  "distance_m": 4200,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20018",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 13:51:00",
+  "duration_s": 840,
+  "distance_m": 2500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20049",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 14:27:00",
+  "duration_s": 360,
+  "distance_m": 400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20060",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 14:33:00",
+  "duration_s": 1560,
+  "distance_m": 2500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20054",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 15:43:00",
+  "duration_s": 840,
+  "distance_m": 500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20028",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 15:57:00",
+  "duration_s": 1620,
+  "distance_m": 1300,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20039",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 16:13:00",
+  "duration_s": 1260,
+  "distance_m": 3100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20059",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 16:31:00",
+  "duration_s": 1020,
+  "distance_m": 1800,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-10028",
+  "station": "Pastéis de Belém",
+  "district": "Belém",
+  "start_time": "2026-10-19 16:35:00",
+  "duration_s": 840,
+  "distance_m": 2900,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20043",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 16:41:00",
+  "duration_s": 360,
+  "distance_m": 2600,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20062",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 16:44:00",
+  "duration_s": 1140,
+  "distance_m": 500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20005",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 16:51:00",
+  "duration_s": 1620,
+  "distance_m": 1000,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20026",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 17:08:00",
+  "duration_s": 960,
+  "distance_m": 900,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20015",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 17:10:00",
+  "duration_s": 1980,
+  "distance_m": 1300,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20002",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 17:13:00",
+  "duration_s": 900,
+  "distance_m": 1500,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20036",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 17:20:00",
+  "duration_s": 1260,
+  "distance_m": 4000,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20030",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 17:42:00",
+  "duration_s": 900,
+  "distance_m": 2800,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20042",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 18:05:00",
+  "duration_s": 780,
+  "distance_m": 2200,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20021",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 18:11:00",
+  "duration_s": 540,
+  "distance_m": 3100,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20025",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 18:27:00",
+  "duration_s": 720,
+  "distance_m": 2400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20038",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 18:37:00",
+  "duration_s": 600,
+  "distance_m": 700,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20046",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 18:57:00",
+  "duration_s": 1500,
+  "distance_m": 1000,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20034",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 19:09:00",
+  "duration_s": 840,
+  "distance_m": 500,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-10042",
+  "station": "Mosteiro dos Jerónimos",
+  "district": "Belém",
+  "start_time": "2026-10-19 19:10:00",
+  "duration_s": 1680,
+  "distance_m": 2900,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20047",
+  "station": "Miradouro de Santa Luzia",
+  "district": "Alfama",
+  "start_time": "2026-10-19 19:20:00",
+  "duration_s": 1500,
+  "distance_m": 2200,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20033",
+  "station": "Museu do Fado",
+  "district": "Alfama",
+  "start_time": "2026-10-19 19:36:00",
+  "duration_s": 840,
+  "distance_m": 900,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20045",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 20:47:00",
+  "duration_s": 1620,
+  "distance_m": 2400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20009",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 20:52:00",
+  "duration_s": 1080,
+  "distance_m": 1900,
+  "bike_type": "classique"
+ },
+ {
+  "trip_id": "LX-20012",
+  "station": "Sé de Lisboa",
+  "district": "Alfama",
+  "start_time": "2026-10-19 21:30:00",
+  "duration_s": 240,
+  "distance_m": 2400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20022",
+  "station": "Feira da Ladra",
+  "district": "Alfama",
+  "start_time": "2026-10-19 21:34:00",
+  "duration_s": 1200,
+  "distance_m": 1700,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-20050",
+  "station": "Largo do Chafariz",
+  "district": "Alfama",
+  "start_time": "2026-10-19 21:49:00",
+  "duration_s": 360,
+  "distance_m": 400,
+  "bike_type": "electrique"
+ },
+ {
+  "trip_id": "LX-10084",
+  "station": "Torre de Belém",
+  "district": "Belém",
+  "start_time": "2026-10-19 22:53:00",
+  "duration_s": 1440,
+  "distance_m": 1900,
+  "bike_type": "classique"
+ }
+]
